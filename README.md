@@ -44,6 +44,6 @@ The models' performance is evaluated using 5-fold cross-validation. The mean acc
 - Implement additional optimizations for the training process.
 - Enhance the batch generator for more complex batch strategies.
 
-## Authors
+## Author
 
 - Bykov Daniil
